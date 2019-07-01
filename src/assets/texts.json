@@ -1,0 +1,14 @@
+{
+  "hero": "Henri Potier",
+  "action": {
+    "buy": "Acheter",
+    "already": "Déjà au panier"
+  },
+  "basket": {
+    "title": "Résumé",
+    "empty": "Votre panier est vide",
+    "total": "Total",
+    "promo": "Avec promotions",
+    "final": "Prix final"
+  }
+}
